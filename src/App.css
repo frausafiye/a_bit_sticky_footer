@@ -1,0 +1,41 @@
+html,
+body,
+#root {
+  /* below code is important here */
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  /* below code is important here */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.navbar {
+  background-color: tomato;
+  padding: 30px;
+  font-size: large;
+  font-weight: 700;
+}
+.content {
+  padding: 50px;
+}
+.btn {
+  padding: 15px;
+  border-radius: 5px;
+  border-color: tomato;
+  background-color: tomato;
+  color: whitesmoke;
+  font-size: larger;
+  margin-bottom: 20px;
+}
+footer {
+  padding: 20px;
+  background-color: tomato;
+  color: black;
+  font-size: large;
+  font-weight: 700;
+  /* below code is important here */
+  margin-top: auto;
+}
