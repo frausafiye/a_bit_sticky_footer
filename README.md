@@ -1,6 +1,6 @@
 # A_bit_sticky_footer
 
-In this repo, I collected the styles that need to be applied to have a footer at the bottom of the page without positioning it using ` position: sticky`
+In this repo, I collected the styles that need to be applied to have a footer at the bottom of the page without positioning it using ~~` position: sticky`~~
 ---
 - You don't have to set the height of your footer, it can be **dynamic**
 - You don't have to display the footer above your content.
